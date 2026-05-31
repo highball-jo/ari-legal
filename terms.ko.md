@@ -14,7 +14,7 @@
 - 대표자: JoCoding Inc.
 - 사업자등록번호: 641-17-01133
 - 주소: 서울특별시 마포구 와우산로29길 16, 3층
-- 연락처: ari.daily.creative@gmail.com
+- 연락처: +82 80 424 8774 / ari.daily.creative@gmail.com
 - 결제·환불 문의: 봇의 `/paysupport` 명령 또는 ari.daily.creative@gmail.com
 
 > 통신판매업 신고번호: 신고 완료 후 본 항목에 기재 예정.
