@@ -2,7 +2,7 @@
 
 > **시행일:** 2026-05-31
 > **버전:** 2026-05-31.1
-> 변경 이력은 [CHANGELOG.md](./CHANGELOG.md) 참고.
+> 변경 이력은 [CHANGELOG-channel.md](./CHANGELOG-channel.md) 참고.
 
 <!--
   MAINTAINER NOTE (English):
@@ -60,7 +60,7 @@
 · 환불은 텔레그램 스타 결제 정책에 따라 처리됩니다. 문의: ari.daily.creative@gmail.com
 
 🏢 판매자 정보 (전자상거래법 제13조)
-· 상호: JoCoding Inc. / 「조코딩 주식회사」
+· 상호: JoCoding Inc.
 · 대표자: 「___」
 · 사업자등록번호: 「___」
 · 통신판매업 신고번호: 「___」

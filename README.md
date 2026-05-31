@@ -8,7 +8,8 @@ Canonical legal documents for the **Ari** Telegram bot operated by
 | [`privacy-policy.ko.md`](./privacy-policy.ko.md) | 개인정보 처리방침 (PIPA Art. 30) |
 | [`terms.ko.md`](./terms.ko.md) | 이용약관 (서비스 이용약관) |
 | [`channel-notice.ko.md`](./channel-notice.ko.md) | 채널 이용 안내 (18+ · AI 고지 · PPV/환불 · 판매자 정보) |
-| [`CHANGELOG.md`](./CHANGELOG.md) | Per-version change log |
+| [`CHANGELOG.md`](./CHANGELOG.md) | 처리방침·약관 변경 이력 (DM, 동의 추적 대상) |
+| [`CHANGELOG-channel.md`](./CHANGELOG-channel.md) | 채널 이용 안내 변경 이력 (독립 버전) |
 
 `privacy-policy.ko.md` and `terms.ko.md` are linked from the bot's
 `/start` consent prompt via Telegram URL buttons. The bot tracks each
